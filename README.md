@@ -7,7 +7,7 @@ Welcome to my Technical Analyst portfolio! Here, you'll find information about m
 
 ## Qualifications
 - Degree in Computer Science from Conestoga College
-- Previous internship experience as a Technical Analyst at @GAO TEK Inc.
+- Previous internship experience as a Technical Analyst at ##GAO TEK Inc.
 
 ## Responsibilities
 As a Technical Analyst, I have been responsible for:
