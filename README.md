@@ -1,4 +1,4 @@
-# Intern---Technical-Analyst
+# Intern || Technical-Analyst
 
 # Technical Analyst Portfolio
 
